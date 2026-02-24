@@ -13,6 +13,9 @@
 2. TMUX course 
 => [tmux-one-shot](https://www.youtube.com/watch?v=u56ViYVJlfw)
 
+3. Vim script
+=> [vim-script](https://learnvimscriptthehardway.stevelosh.com)
+
 3. Networking deep dive:2 days:
 => [networking](https://www.youtube.com/watch?v=IPvYjXCsTg8)
 
